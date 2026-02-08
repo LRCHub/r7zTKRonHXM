@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クローサー",
+  "base_artist": "The Chainsmokers",
+  "createdAt": "2026-02-08T05:49:27.087005Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Closer feat. Halsey",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/pl_01_Closer_feat._Halsey_The_Chainsmokers.txt"
+    }
+  ]
+}
